@@ -1,6 +1,7 @@
 # The Network Sniffer
 > Network Sniffer written in Python3
 
+![NetworkSniffer](https://user-images.githubusercontent.com/36809025/120917723-6aa9af00-c6ce-11eb-8cb2-dce9d5abd950.png)
 The Network Sniffer is a simple network sniffer program written while going through the Book **BlackHat Python 2nd Edition**.
 
 ## Files
